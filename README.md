@@ -4,3 +4,5 @@
 This edit was made in TestBranch1
 
 This an edit after the merge on TestBranch1
+
+3. A third edit directly on the master
